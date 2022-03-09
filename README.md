@@ -1,29 +1,47 @@
-# DACO's GitHub
+# 🤔 Daco's GitHub
 
 <div align="center">
   
-  [![DACO's GitHub stats](https://github-readme-stats.vercel.app/api?username=daco2020&count_private=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Daco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daco2020&show_icons=true&count_private=true)](https://github.com/Daco2020/github-readme-stats)
+
 
  <!--START_SECTION:waka-->
  
  <!--END_SECTION:waka-->
- 
-<br><br><br>
+<!--  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daco2020&hide=tex,html,css,c,Objective-C,Pug&layout=compact)](https://github.com/Daco2020/github-readme-stats)
+  -->
+</div>
 
-# Main Skill
+
+# 🌱 I experienced
 
 <div align="center">
+
 <img src="https://img.shields.io/badge/Python-5175A7?style=flat-square&logo=Python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F0DF3E?style=flat-square&logo=Javascript&logoColor=white"/>
 
+ <br>
+  
+<img src="https://img.shields.io/badge/Django-8bc34a?style=flat-square&logo=Django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Flask-0078ff?style=flat-square&logo=Flask&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FastAPI-009184?style=flat-square&logo=FastAPI&logoColor=white"/>
+  
+ <br>
+  
 <img src="https://img.shields.io/badge/MySQL-tomato?style=flat-square&logo=MySQL&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/MongoDB-80b959?style=flat-square&logo=MongoDB&logoColor=white"/>
+  
+<img src="https://img.shields.io/badge/PostgreSQL-2d317a?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 </div>
 
-<br><br><br>
 
-# Contact
+
+# 💬 Ask me about ...
 <div align="center">
 <a href="https://daco2020.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-20c997?style=flat-square&logo=v&logoColor=white"/></a>
 <a href="mailto:dacokim32@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-B54A3A?style=flat-square&logo=Gmail&logoColor=white"/></a>
