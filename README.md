@@ -17,8 +17,8 @@
 
 <div align="center">
 
-  <p></p>
-  <img src="https://www.kindpng.com/picc/m/590-5909635_fastapi-graphic-design-hd-png-download.png", width=49%>
+  
+![image](https://user-images.githubusercontent.com/76890895/171443135-8ad39ca5-9e80-438f-8670-3a89f600a51b.png)
 
   
 </div>
