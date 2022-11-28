@@ -1,7 +1,6 @@
 <div align="center">
   
-[![Daco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daco2020&show_icons=true&count_private=true)](https://github.com/Daco2020/github-readme-stats)
-
+<!-- [![Daco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daco2020&show_icons=true&count_private=true)](https://github.com/Daco2020/github-readme-stats) -->
 
 <!--  START_SECTION:waka -->
   
@@ -9,8 +8,10 @@
  
 <!--  END_SECTION:waka -->
 
-### Making something is fun. Especially if it's for you😚
+<image src=https://user-images.githubusercontent.com/76890895/204277151-45c3cc9c-9d32-4ae7-9631-8ec59e7ff4e1.png width="200" height="200"/>
+<image src=https://user-images.githubusercontent.com/76890895/204278115-2b9325f2-930b-4633-a4b9-36288eb150c6.png width="200" height="200"/>
 
+만드는 거 좋아하고, 사람 좋아하는 개발자입니다 😙  
+언제나 두근거리는 일을 합니다 😈
 
 </div>
-
