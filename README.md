@@ -1,7 +1,7 @@
 ### 안녕! 😙
 
 <details>
-  <summary>혹시 내가 궁금해?</summary>
+  <summary>내가 궁금해?</summary>
   안알랴줌 🤭
 </details>
 
