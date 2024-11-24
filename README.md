@@ -12,7 +12,7 @@
       <summary>이제는 궁금하지?</summary>
       <details>
         <summary>안알랴줌 🤭</summary>
-        여기까지 왔다구?.? 내가 졌다 😵 <a href="https://www.instagram.com/ki.un._.chan/" target="_blank">인스타</a>는 알랴줄게~ 😉
+        여기까지 왔다구?.? 내가 졌다 😵
       </details>  
     </details>
   </details>
