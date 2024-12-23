@@ -2,7 +2,13 @@
 
 <br>
 
-## 개인 작업
+## 개인 앱 작업
+
+### [띵노트 앱스토어](https://apps.apple.com/kr/app/%EB%9D%B5%EB%85%B8%ED%8A%B8/id6738901784)
+
+### [띵노트 플레이스토어](https://play.google.com/store/apps/details?id=com.daco.ttingnote&pcampaignid=web_share)
+
+## 개인 웹 작업
 
 ### [명절 잔소리 마스터](https://holiday-jansori.vercel.app/)
 
@@ -12,7 +18,11 @@
 
 <br>
 
-## 팀 작업
+## 팀 앱 작업
+
+### 새로(출시 예정)
+
+## 팀 웹 작업
 
 ### [2024 테크 블로그 리포터](https://tebly.kr)
 
