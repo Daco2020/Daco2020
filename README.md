@@ -14,4 +14,8 @@
 
 ## 팀 작업
 
+### [2024 테크 블로그 리포터](https://tebly.kr)
+
+### [톡방 연말대상](https://yearend.kr)
+
 ### [상황기반 MBTI 테스트](https://clova-mbti.kro.kr/)
