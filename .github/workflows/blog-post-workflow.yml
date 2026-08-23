@@ -3,7 +3,7 @@ name: 블로그 최신 글 갱신
 on:
   schedule:
     - cron: "0 0 * * *"      # 매일 09:00 KST
-  workflow_dispatch:          # 수동 실행
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -12,9 +12,14 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1.9.7
-        with:
-          feed_list: "https://daco2020.tistory.com/rss"
-          max_post_count: 4
-          template: "[$title]($url)<br>"
-          commit_message: "블로그 최신 글 갱신"
+
+      - name: og:image 내려받아 README 갱신
+        run: python3 scripts/update_blog.py
+
+      - name: 변경분 커밋
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/blog
+          git diff --staged --quiet || git commit -m "블로그 최신 글 갱신"
+          git push
