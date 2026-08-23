@@ -1,16 +1,16 @@
 <a href="https://apps.apple.com/us/app/abilit-to-dos-become-skills/id6796146859">
-  <img src="assets/abilit.png" width="640" alt="Abilit">
+  <img src="assets/abilit.png" width="430" alt="Abilit">
 </a>
 
-할 일을 해낼수록 원석이 자랍니다. 순위도 벌점도 없습니다.
+내 능력과 성장이 눈에 보이기 시작합니다.
 
 <br>
 
 <a href="https://stellemo.com">
-  <img src="assets/stellemo.png" width="640" alt="Stellemo">
+  <img src="assets/stellemo.png" width="430" alt="Stellemo">
 </a>
 
-흩어놓은 메모를 AI가 이어 줍니다.
+기록하고, 연결을 발견하고, 꺼내 쓰는 공간형 메모 서비스.
 
 <br>
 
