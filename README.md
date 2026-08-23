@@ -2,7 +2,7 @@
   <img src="assets/abilit.png" width="430" alt="Abilit">
 </a>
 
-내 능력과 성장이 눈에 보이기 시작합니다.
+투두를 완료하면 내 능력과 성장이 눈에 보이기 시작합니다.
 
 <br>
 
@@ -10,7 +10,7 @@
   <img src="assets/stellemo.png" width="430" alt="Stellemo">
 </a>
 
-기록하고, 연결을 발견하고, 꺼내 쓰는 공간형 메모 서비스
+기록하고, 연결을 발견하고, 꺼내 쓰는 공간형 메모 서비스입니다.
 
 <br>
 
