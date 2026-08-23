@@ -1,0 +1,20 @@
+name: 블로그 최신 글 갱신
+
+on:
+  schedule:
+    - cron: "0 0 * * *"      # 매일 09:00 KST
+  workflow_dispatch:          # 수동 실행
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1.9.7
+        with:
+          feed_list: "https://daco2020.tistory.com/rss"
+          max_post_count: 4
+          template: "[$title]($url)<br>"
+          commit_message: "블로그 최신 글 갱신"

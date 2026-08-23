@@ -1,31 +1,22 @@
-안녕! 😙
+<a href="https://apps.apple.com/us/app/abilit-to-dos-become-skills/id6796146859">
+  <img src="assets/abilit.png" width="640" alt="Abilit">
+</a>
+
+할 일을 해낼수록 원석이 자랍니다. 순위도 벌점도 없습니다.
 
 <br>
 
-## 개인 앱 작업
+<a href="https://stellemo.com">
+  <img src="assets/stellemo.png" width="640" alt="Stellemo">
+</a>
 
-[띵노트 앱스토어](https://apps.apple.com/kr/app/%EB%9D%B5%EB%85%B8%ED%8A%B8/id6738901784)
-
-[띵노트 플레이스토어](https://play.google.com/store/apps/details?id=com.daco.ttingnote&pcampaignid=web_share)
-
-## 개인 웹 작업
-
-[명절 잔소리 마스터](https://holiday-jansori.vercel.app/)
-
-[초코우유 밈 생성기](https://choco-milk-meme.vercel.app/)
-
-[유의어 반의어 찾기](https://synoanto.vercel.app/)
+흩어놓은 메모를 AI가 이어 줍니다.
 
 <br>
 
-## 팀 앱 작업
+## 요즘 쓰는 글
 
-새로(출시 예정)
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## 팀 웹 작업
-
-[2024 테크 블로그 리포터](https://tebly.kr)
-
-[톡방 연말대상](https://yearend.kr)
-
-[상황기반 MBTI 테스트](https://clova-mbti.kro.kr/)
+[블로그](https://daco2020.tistory.com/)
